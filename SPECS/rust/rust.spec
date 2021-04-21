@@ -22,8 +22,8 @@ Patch0:         CVE-2020-36323.patch
 # CVE-2021-28876.patch contains links to included PRs for each CVE
 Patch1:         CVE-2021-28876.patch
 Patch2:         CVE-2021-28877.nopatch
-Patch2:         CVE-2021-28878.nopatch
-Patch3:         CVE-2021-28879.nopatch
+Patch3:         CVE-2021-28878.nopatch
+Patch4:         CVE-2021-28879.nopatch
 
 BuildRequires:  binutils
 BuildRequires:  cmake
